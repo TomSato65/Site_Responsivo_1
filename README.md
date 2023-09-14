@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Site Responsivo é um Estudo que Executei para Aprendizado de algumas Tecnologias de Programação, como Box Shadow, @media, Ícones animados, Carrossel Infinito e Menu Responsivo
+O Site Responsivo é um Estudo que Executei para Aprendizado de algumas Tecnologias de Programação, como Box Shadow, media, Ícones animados, Carrossel Infinito e Menu Responsivo
 
 ## 🔖 Layout
 
