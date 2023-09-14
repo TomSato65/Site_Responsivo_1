@@ -18,7 +18,7 @@ Site Que Utilizei Para Aprendizado Com Várias Tecnologias<br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Site 1 Responsivo" src="./img/Preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
